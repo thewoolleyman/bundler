@@ -336,6 +336,69 @@ gems:
     summary: Implements the ActiveRecord pattern for ORM.
     test_files: []
     
+  activeresource-2.3.2: !ruby/object:Gem::Specification 
+    name: activeresource
+    version: !ruby/object:Gem::Version 
+      version: 2.3.2
+    platform: ruby
+    authors: 
+    - David Heinemeier Hansson
+    autorequire: active_resource
+    bindir: bin
+    cert_chain: []
+    
+    date: 2009-03-14 22:00:00 -07:00
+    default_executable: 
+    dependencies: 
+    - !ruby/object:Gem::Dependency 
+      name: activesupport
+      type: :runtime
+      version_requirement: 
+      version_requirements: !ruby/object:Gem::Requirement 
+        requirements: 
+        - - "="
+          - !ruby/object:Gem::Version 
+            version: 2.3.2
+        version: 
+    description: Wraps web resources in model classes that can be manipulated through XML over REST.
+    email: david@loudthinking.com
+    executables: []
+    
+    extensions: []
+    
+    extra_rdoc_files: []
+    
+    files: []
+    
+    has_rdoc: true
+    homepage: http://www.rubyonrails.org
+    licenses: 
+    post_install_message: 
+    rdoc_options: []
+    
+    require_paths: 
+    - lib
+    required_ruby_version: !ruby/object:Gem::Requirement 
+      requirements: 
+      - - ">="
+        - !ruby/object:Gem::Version 
+          version: "0"
+      version: 
+    required_rubygems_version: !ruby/object:Gem::Requirement 
+      requirements: 
+      - - ">="
+        - !ruby/object:Gem::Version 
+          version: "0"
+      version: 
+    requirements: []
+    
+    rubyforge_project: activeresource
+    rubygems_version: 1.3.4
+    signing_key: 
+    specification_version: 2
+    summary: Think Active Record for web resources.
+    test_files: []
+    
   activesupport-2.3.2: !ruby/object:Gem::Specification 
     name: activesupport
     version: !ruby/object:Gem::Version 
@@ -2590,6 +2653,149 @@ gems:
     signing_key: 
     specification_version: 3
     summary: Additional resources for use with the merb-auth-core authentication framework.
+    test_files: []
+    
+  merb-core-1.0.9: !ruby/object:Gem::Specification 
+    name: merb-core
+    version: !ruby/object:Gem::Version 
+      version: 1.0.9
+    platform: ruby
+    authors: 
+    - Ezra Zygmuntowicz
+    autorequire: 
+    bindir: bin
+    cert_chain: []
+    
+    date: 2009-02-12 00:00:00 -08:00
+    default_executable: 
+    dependencies: 
+    - !ruby/object:Gem::Dependency 
+      name: extlib
+      type: :runtime
+      version_requirement: 
+      version_requirements: !ruby/object:Gem::Requirement 
+        requirements: 
+        - - ">="
+          - !ruby/object:Gem::Version 
+            version: 0.9.8
+        version: 
+    - !ruby/object:Gem::Dependency 
+      name: erubis
+      type: :runtime
+      version_requirement: 
+      version_requirements: !ruby/object:Gem::Requirement 
+        requirements: 
+        - - ">="
+          - !ruby/object:Gem::Version 
+            version: 2.6.2
+        version: 
+    - !ruby/object:Gem::Dependency 
+      name: rake
+      type: :runtime
+      version_requirement: 
+      version_requirements: !ruby/object:Gem::Requirement 
+        requirements: 
+        - - ">="
+          - !ruby/object:Gem::Version 
+            version: "0"
+        version: 
+    - !ruby/object:Gem::Dependency 
+      name: json_pure
+      type: :runtime
+      version_requirement: 
+      version_requirements: !ruby/object:Gem::Requirement 
+        requirements: 
+        - - ">="
+          - !ruby/object:Gem::Version 
+            version: "0"
+        version: 
+    - !ruby/object:Gem::Dependency 
+      name: rspec
+      type: :runtime
+      version_requirement: 
+      version_requirements: !ruby/object:Gem::Requirement 
+        requirements: 
+        - - ">="
+          - !ruby/object:Gem::Version 
+            version: "0"
+        version: 
+    - !ruby/object:Gem::Dependency 
+      name: rack
+      type: :runtime
+      version_requirement: 
+      version_requirements: !ruby/object:Gem::Requirement 
+        requirements: 
+        - - ">="
+          - !ruby/object:Gem::Version 
+            version: "0"
+        version: 
+    - !ruby/object:Gem::Dependency 
+      name: mime-types
+      type: :runtime
+      version_requirement: 
+      version_requirements: !ruby/object:Gem::Requirement 
+        requirements: 
+        - - ">="
+          - !ruby/object:Gem::Version 
+            version: "0"
+        version: 
+    - !ruby/object:Gem::Dependency 
+      name: thor
+      type: :runtime
+      version_requirement: 
+      version_requirements: !ruby/object:Gem::Requirement 
+        requirements: 
+        - - ">="
+          - !ruby/object:Gem::Version 
+            version: 0.9.9
+        version: 
+    - !ruby/object:Gem::Dependency 
+      name: webrat
+      type: :development
+      version_requirement: 
+      version_requirements: !ruby/object:Gem::Requirement 
+        requirements: 
+        - - ">="
+          - !ruby/object:Gem::Version 
+            version: 0.3.1
+        version: 
+    description: Merb. Pocket rocket web framework.
+    email: ez@engineyard.com
+    executables: 
+    - merb
+    extensions: []
+    
+    extra_rdoc_files: []
+    
+    files: []
+    
+    has_rdoc: true
+    homepage: http://merbivore.com
+    licenses: 
+    post_install_message: 
+    rdoc_options: []
+    
+    require_paths: 
+    - lib
+    required_ruby_version: !ruby/object:Gem::Requirement 
+      requirements: 
+      - - ">="
+        - !ruby/object:Gem::Version 
+          version: 1.8.6
+      version: 
+    required_rubygems_version: !ruby/object:Gem::Requirement 
+      requirements: 
+      - - ">="
+        - !ruby/object:Gem::Version 
+          version: 1.3.0
+      version: 
+    requirements: 
+    - install the json gem to get faster json parsing
+    rubyforge_project: 
+    rubygems_version: 1.3.4
+    signing_key: 
+    specification_version: 2
+    summary: Merb. Pocket rocket web framework.
     test_files: []
     
   merb-exceptions-1.0.12: !ruby/object:Gem::Specification 

@@ -3,6 +3,7 @@ ZenTest-4.1.1
 actionmailer-2.3.2
 actionpack-2.3.2
 activerecord-2.3.2
+activeresource-2.3.2
 activesupport-2.3.2
 addressable-2.0.2
 builder-2.1.2
@@ -36,6 +37,7 @@ merb-1.0.12
 merb-assets-1.0.12
 merb-auth-1.0.12
 merb-auth-more-1.0.12
+merb-core-1.0.9
 merb-exceptions-1.0.12
 merb-gen-1.0.12
 merb-haml-1.0.12
