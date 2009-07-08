@@ -23,6 +23,7 @@ dm-types-0.9.11
 dm-validations-0.9.11
 do_mysql-0.9.12
 do_sqlite3-0.9.11
+do_sqlite3-0.9.12-x86-mswin32-60
 extlib-0.9.12
 fcgi-0.8.7
 gem_plugin-0.2.3
