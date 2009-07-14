@@ -4391,6 +4391,60 @@ gems:
     summary: production_log_analyzer lets you find out which actions on a Rails site are slowing you down.
     test_files: []
     
+  rack-0.9.1: !ruby/object:Gem::Specification 
+    name: rack
+    version: !ruby/object:Gem::Version 
+      version: 0.9.1
+    platform: ruby
+    authors: 
+    - Christian Neukirchen
+    autorequire: 
+    bindir: bin
+    cert_chain: []
+    
+    date: 2009-01-08 15:00:00 -08:00
+    default_executable: 
+    dependencies: []
+    
+    description: Rack provides minimal, modular and adaptable interface for developing web applications in Ruby.  By wrapping HTTP requests and responses in the simplest way possible, it unifies and distills the API for web servers, web frameworks, and software in between (the so-called middleware) into a single method call.  Also see http://rack.rubyforge.org.
+    email: chneukirchen@gmail.com
+    executables: 
+    - rackup
+    extensions: []
+    
+    extra_rdoc_files: []
+    
+    files: []
+    
+    has_rdoc: true
+    homepage: http://rack.rubyforge.org
+    licenses: 
+    post_install_message: 
+    rdoc_options: []
+    
+    require_paths: 
+    - lib
+    required_ruby_version: !ruby/object:Gem::Requirement 
+      requirements: 
+      - - ">="
+        - !ruby/object:Gem::Version 
+          version: "0"
+      version: 
+    required_rubygems_version: !ruby/object:Gem::Requirement 
+      requirements: 
+      - - ">="
+        - !ruby/object:Gem::Version 
+          version: "0"
+      version: 
+    requirements: []
+    
+    rubyforge_project: rack
+    rubygems_version: 1.3.4
+    signing_key: 
+    specification_version: 2
+    summary: a modular Ruby webserver interface
+    test_files: []
+    
   rack-test-0.2.0: !ruby/object:Gem::Specification 
     name: rack-test
     version: !ruby/object:Gem::Version 
