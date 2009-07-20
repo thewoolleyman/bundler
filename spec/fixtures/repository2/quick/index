@@ -58,6 +58,7 @@ rack-1.0.0
 rack-test-0.2.0
 rails-2.3.2
 rails_analyzer_tools-1.4.0
+rspec-1.2.8
 ruby-debug-0.10.3
 ruby-debug-base-0.10.3
 ruby-prof-0.7.3
