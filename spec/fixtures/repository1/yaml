@@ -82,8 +82,9 @@ gems:
     requirements: []
     
     rubyforge_project: parsetree
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: ParseTree is a C extension (using RubyInline) that extracts the parse tree for an entire class or a specific method and returns it as a s-expression (aka sexp) using ruby's arrays, strings, symbols, and integers
     test_files: []
@@ -147,8 +148,9 @@ gems:
     requirements: []
     
     rubyforge_project: redcloth
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: RedCloth-4.1.1 - Textile parser for Ruby. http://redcloth.org/
     test_files: []
@@ -221,8 +223,9 @@ gems:
     requirements: 
     - A POSIX environment and a compiler for your language.
     rubyforge_project: rubyinline
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: Inline allows you to write foreign code within your ruby code
     test_files: []
@@ -278,8 +281,9 @@ gems:
     requirements: []
     
     rubyforge_project: seattlerb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 1
     summary: SyslogLogger is a Logger replacement that logs to syslog.  It is almost drop-in with a few caveats.
     test_files: []
@@ -368,8 +372,9 @@ gems:
     requirements: []
     
     rubyforge_project: zentest
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: "ZenTest provides 4 different tools: zentest, unit_diff, autotest, and multiruby"
     test_files: []
@@ -417,8 +422,9 @@ gems:
     requirements: []
     
     rubyforge_project: 
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 1
     summary: a library which enable you to define abstract method in Ruby
     test_files: []
@@ -480,8 +486,9 @@ gems:
     requirements: 
     - none
     rubyforge_project: actionmailer
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: Service layer for easy email delivery and testing.
     test_files: []
@@ -543,8 +550,9 @@ gems:
     requirements: []
     
     rubyforge_project: activerecord
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: Implements the ActiveRecord pattern for ORM.
     test_files: []
@@ -626,8 +634,9 @@ gems:
     requirements: []
     
     rubyforge_project: addressable
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: URI Implementation
     test_files: []
@@ -675,8 +684,9 @@ gems:
     requirements: []
     
     rubyforge_project: 
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 1
     summary: Builders for MarkUp.
     test_files: []
@@ -724,8 +734,9 @@ gems:
     requirements: []
     
     rubyforge_project: rocky-hacks
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 1
     summary: Read file with caching
     test_files: []
@@ -808,8 +819,9 @@ gems:
     requirements: []
     
     rubyforge_project: dorb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: DataObjects basic API and shared driver specifications
     test_files: []
@@ -982,8 +994,9 @@ gems:
     requirements: []
     
     rubyforge_project: datamapper
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: An Object/Relational Mapper for Ruby
     test_files: []
@@ -1032,8 +1045,9 @@ gems:
     requirements: []
     
     rubyforge_project: ruwiki
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 1
     summary: Provides a list of changes that represent the difference between two sequenced collections.
     test_files: []
@@ -1096,8 +1110,9 @@ gems:
     requirements: []
     
     rubyforge_project: datamapper
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: DataMapper plugin providing support for aggregates, functions on collections and datasets
     test_files: []
@@ -1160,8 +1175,9 @@ gems:
     requirements: []
     
     rubyforge_project: datamapper
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: DataMapper plugin allowing interaction with models through a CLI
     test_files: []
@@ -1244,8 +1260,9 @@ gems:
     requirements: []
     
     rubyforge_project: datamapper
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: An Object/Relational Mapper for Ruby
     test_files: []
@@ -1308,8 +1325,9 @@ gems:
     requirements: []
     
     rubyforge_project: datamapper
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: DataMapper plugin for writing and speccing migrations
     test_files: []
@@ -1372,8 +1390,9 @@ gems:
     requirements: []
     
     rubyforge_project: datamapper
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: DataMapper plugin for observing Resource Models
     test_files: []
@@ -1436,8 +1455,9 @@ gems:
     requirements: []
     
     rubyforge_project: datamapper
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: DataMapper plugin for serializing DataMapper objects
     test_files: []
@@ -1500,8 +1520,9 @@ gems:
     requirements: []
     
     rubyforge_project: datamapper
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: DataMapper plugin for magical timestamps
     test_files: []
@@ -1574,8 +1595,9 @@ gems:
     requirements: []
     
     rubyforge_project: datamapper
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: DataMapper plugin providing extra data types
     test_files: []
@@ -1638,8 +1660,9 @@ gems:
     requirements: []
     
     rubyforge_project: datamapper
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: DataMapper plugin for performing validations on data models
     test_files: []
@@ -1732,8 +1755,9 @@ gems:
     requirements: []
     
     rubyforge_project: dorb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: DataObjects MySQL Driver
     test_files: []
@@ -1807,8 +1831,9 @@ gems:
     requirements: []
     
     rubyforge_project: dorb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: A DataObject.rb driver for Sqlite3
     test_files: []
@@ -1901,8 +1926,9 @@ gems:
     requirements: []
     
     rubyforge_project: dorb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: DataObjects Sqlite3 Driver
     test_files: []
@@ -1956,8 +1982,9 @@ gems:
     requirements: []
     
     rubyforge_project: 
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: Support library for DataMapper and Merb.
     test_files: []
@@ -2005,8 +2032,9 @@ gems:
     requirements: []
     
     rubyforge_project: fcgi
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 1
     summary: FastCGI library for Ruby.
     test_files: []
@@ -2059,8 +2087,9 @@ gems:
     requirements: []
     
     rubyforge_project: mongrel
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: A plugin system based on rubygems that uses dependencies only
     test_files: []
@@ -2117,8 +2146,9 @@ gems:
     requirements: []
     
     rubyforge_project: haml
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: An elegant, structured XHTML/XML templating engine. Comes with Sass, a similar CSS templating engine.
     test_files: []
@@ -2171,8 +2201,9 @@ gems:
     requirements: []
     
     rubyforge_project: highline
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: HighLine is a high-level command-line IO library.
     test_files: []
@@ -2266,8 +2297,9 @@ gems:
     requirements: []
     
     rubyforge_project: seattlerb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: Hoe is a rake/rubygems helper for project Rakefiles
     test_files: []
@@ -2322,8 +2354,9 @@ gems:
     requirements: []
     
     rubyforge_project: json
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: A JSON implementation in Ruby
     test_files: []
@@ -2377,8 +2410,9 @@ gems:
     requirements: []
     
     rubyforge_project: kablame
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: Use svn or git blame to show you who deserves the credit
     test_files: []
@@ -2426,8 +2460,9 @@ gems:
     requirements: []
     
     rubyforge_project: rocky-hacks
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 1
     summary: Read file with caching
     test_files: []
@@ -2466,8 +2501,9 @@ gems:
     required_rubygems_version: 
     requirements: 
     rubyforge_project: 
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: -1
     summary: Log4r is a comprehensive and flexible logging library for Ruby.
     test_files: []
@@ -2523,8 +2559,9 @@ gems:
     requirements: []
     
     rubyforge_project: seattlerb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: A Ruby library for accessing memcached.
     test_files: []
@@ -2607,8 +2644,9 @@ gems:
     requirements: []
     
     rubyforge_project: merb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: Merb plugin that provides support for ActionArgs
     test_files: []
@@ -2671,8 +2709,9 @@ gems:
     requirements: []
     
     rubyforge_project: merb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: Merb plugin that provides the helpers for assets and asset bundling
     test_files: []
@@ -2765,8 +2804,9 @@ gems:
     requirements: []
     
     rubyforge_project: merb-auth
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: merb-auth.  The official authentication plugin for merb.  Setup for the default stack
     test_files: []
@@ -2839,8 +2879,9 @@ gems:
     requirements: []
     
     rubyforge_project: merb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: An Authentication framework for Merb
     test_files: []
@@ -2903,8 +2944,9 @@ gems:
     requirements: []
     
     rubyforge_project: merb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: Additional resources for use with the merb-auth-core authentication framework.
     test_files: []
@@ -2987,8 +3029,9 @@ gems:
     requirements: []
     
     rubyforge_project: merb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: Merb Slice that provides UI for password strategy of merb-auth.
     test_files: []
@@ -3051,8 +3094,9 @@ gems:
     requirements: []
     
     rubyforge_project: merb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: Merb plugin that provides caching (page, action, fragment, object)
     test_files: []
@@ -3195,8 +3239,9 @@ gems:
     requirements: 
     - install the json gem to get faster json parsing
     rubyforge_project: 
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: Merb. Pocket rocket web framework.
     test_files: []
@@ -3259,8 +3304,9 @@ gems:
     requirements: []
     
     rubyforge_project: 
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: Email and web hook exceptions for Merb.
     test_files: []
@@ -3333,8 +3379,9 @@ gems:
     requirements: []
     
     rubyforge_project: merb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: Generators suite for Merb.
     test_files: []
@@ -3407,8 +3454,9 @@ gems:
     requirements: []
     
     rubyforge_project: merb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: Merb plugin that provides mailer functionality to Merb
     test_files: []
@@ -3581,8 +3629,9 @@ gems:
     requirements: []
     
     rubyforge_project: merb-more
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: (merb - merb-core) == merb-more.  The Full Stack. Take what you need; leave what you don't.
     test_files: []
@@ -3645,8 +3694,9 @@ gems:
     requirements: []
     
     rubyforge_project: merb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: Merb-Slices is a Merb plugin for using and creating application 'slices' which help you modularize your application.
     test_files: []
@@ -3729,8 +3779,9 @@ gems:
     requirements: []
     
     rubyforge_project: merb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: DataMapper plugin providing DataMapper support for Merb
     test_files: []
@@ -3823,8 +3874,9 @@ gems:
     requirements: []
     
     rubyforge_project: mime-types
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: Manages a MIME Content-Type database that will return the Content-Type for a given filename.
     test_files: []
@@ -3878,8 +3930,9 @@ gems:
     requirements: []
     
     rubyforge_project: 
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: Most awesome pagination solution for Rails
     test_files: []
@@ -3941,8 +3994,9 @@ gems:
     requirements: []
     
     rubyforge_project: mocha
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: Mocking and stubbing library
     test_files: []
@@ -4031,8 +4085,9 @@ gems:
     requirements: []
     
     rubyforge_project: mongrel
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: A small fast HTTP library and server that runs Rails, Camping, Nitro and Iowa apps.
     test_files: []
@@ -4161,8 +4216,9 @@ gems:
     requirements: []
     
     rubyforge_project: newgem
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: Quickly bundle any Ruby libraries into a RubyGem and share it with the world, your colleagues, or perhaps just with yourself amongst your projects
     test_files: []
@@ -4264,8 +4320,9 @@ gems:
     requirements: []
     
     rubyforge_project: nokogiri
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: Nokogiri (&#37624;) is an HTML, XML, SAX, and Reader parser
     test_files: []
@@ -4317,8 +4374,9 @@ gems:
     requirements: 
     - PostgreSQL libpq library and headers
     rubyforge_project: ruby-pg
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 1
     summary: Ruby extension library providing an API to PostgreSQL
     test_files: []
@@ -4385,8 +4443,9 @@ gems:
     requirements: []
     
     rubyforge_project: seattlerb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 1
     summary: production_log_analyzer lets you find out which actions on a Rails site are slowing you down.
     test_files: []
@@ -4439,8 +4498,9 @@ gems:
     requirements: []
     
     rubyforge_project: rack
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: a modular Ruby webserver interface
     test_files: []
@@ -4493,8 +4553,9 @@ gems:
     requirements: []
     
     rubyforge_project: 
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: Simple testing API built on Rack
     test_files: []
@@ -4606,8 +4667,9 @@ gems:
     requirements: []
     
     rubyforge_project: rails
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: Web-application framework with template engine, control-flow layer, and ORM.
     test_files: []
@@ -4674,8 +4736,9 @@ gems:
     requirements: []
     
     rubyforge_project: seattlerb
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 1
     summary: Tools for analyzing the performance of web sites.
     test_files: []
@@ -4728,8 +4791,9 @@ gems:
     requirements: []
     
     rubyforge_project: rake
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: Ruby based make-like utility.
     test_files: []
@@ -4782,8 +4846,9 @@ gems:
     requirements: []
     
     rubyforge_project: 
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: Library for generating random strings.
     test_files: []
@@ -4844,8 +4909,9 @@ gems:
     requirements: []
     
     rubyforge_project: ruby-debug
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: Fast Ruby debugger - core component
     test_files: []
@@ -4898,8 +4964,9 @@ gems:
     requirements: []
     
     rubyforge_project: ruby-prof
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: Fast Ruby profiler
     test_files: []
@@ -5008,8 +5075,9 @@ gems:
     requirements: []
     
     rubyforge_project: parsetree
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: ruby_parser (RP) is a ruby parser written in pure ruby (utilizing racc--which does by default use a C extension)
     test_files: []
@@ -5067,8 +5135,9 @@ gems:
     requirements: []
     
     rubyforge_project: codeforpeople
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: A script which automates a limited set of rubyforge operations
     test_files: []
@@ -5129,8 +5198,9 @@ gems:
     requirements: []
     
     rubyforge_project: rubygems
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: RubyGems update gem
     test_files: []
@@ -5191,8 +5261,9 @@ gems:
     requirements: []
     
     rubyforge_project: rubygems
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: RubyGems update gem
     test_files: []
@@ -5236,8 +5307,9 @@ gems:
     required_rubygems_version: 
     requirements: 
     rubyforge_project: 
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: -1
     summary: SQLite/Ruby is a module to allow Ruby scripts to interface with a SQLite database. VERSIONS &gt;=2.0.0 ARE BETA RELEASES. THEY ARE INTENDED FOR TESTING ONLY, AND SHOULD NOT BE CONSIDERED PRODUCTION-WORTHY YET.
     test_files: []
@@ -5290,8 +5362,9 @@ gems:
     requirements: []
     
     rubyforge_project: 
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: SQLite3/Ruby is a module to allow Ruby scripts to interface with a SQLite3 database.
     test_files: []
@@ -5373,8 +5446,9 @@ gems:
     requirements: []
     
     rubyforge_project: 
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: File generation system
     test_files: []
@@ -5428,8 +5502,9 @@ gems:
     requirements: []
     
     rubyforge_project: thor
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: A gem that maps options to a class
     test_files: []
@@ -5483,10 +5558,76 @@ gems:
     requirements: []
     
     rubyforge_project: 
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 3
     summary: A gem that provides all of nothing
+    test_files: []
+    
+  webrat-0.4.4.racktest: !ruby/object:Gem::Specification 
+    name: webrat
+    version: !ruby/object:Gem::Version 
+      version: 0.4.4.racktest
+    platform: ruby
+    authors: 
+    - Bryan Helmkamp
+    autorequire: 
+    bindir: bin
+    cert_chain: []
+    
+    date: 2009-07-22 05:00:00 -07:00
+    default_executable: 
+    dependencies: 
+    - !ruby/object:Gem::Dependency 
+      name: nokogiri
+      type: :runtime
+      version_requirement: 
+      version_requirements: !ruby/object:Gem::Requirement 
+        requirements: 
+        - - ">="
+          - !ruby/object:Gem::Version 
+            version: 1.2.0
+        version: 
+    description: Webrat. Ruby Acceptance Testing for Web applications
+    email: bryan@brynary.com
+    executables: []
+    
+    extensions: []
+    
+    extra_rdoc_files: []
+    
+    files: []
+    
+    has_rdoc: true
+    homepage: http://github.com/brynary/webrat
+    licenses: []
+    
+    post_install_message: 
+    rdoc_options: []
+    
+    require_paths: 
+    - lib
+    required_ruby_version: !ruby/object:Gem::Requirement 
+      requirements: 
+      - - ">="
+        - !ruby/object:Gem::Version 
+          version: "0"
+      version: 
+    required_rubygems_version: !ruby/object:Gem::Requirement 
+      requirements: 
+      - - ">"
+        - !ruby/object:Gem::Version 
+          version: 1.3.1
+      version: 
+    requirements: []
+    
+    rubyforge_project: webrat
+    rubygems_version: 1.3.5
+    signing_key: 
+    source: 
+    specification_version: 3
+    summary: Webrat. Ruby Acceptance Testing for Web applications
     test_files: []
     
   wycats-textmate-0.9.2: !ruby/object:Gem::Specification 
@@ -5545,8 +5686,9 @@ gems:
     requirements: []
     
     rubyforge_project: 
-    rubygems_version: 1.3.4
+    rubygems_version: 1.3.5
     signing_key: 
+    source: 
     specification_version: 2
     summary: Command-line textmate package manager
     test_files: []
